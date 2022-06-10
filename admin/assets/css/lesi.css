@@ -1,0 +1,14 @@
+.btn {
+  border-radius: 25px;
+}
+.form-control {
+  border-radius: 25px;
+}
+/*option {
+  border-radius: 25px;
+}*/
+div.ex1 {
+  height:300px;
+  width: auto;
+  overflow-y: scroll;
+}
